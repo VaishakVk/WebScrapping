@@ -9,4 +9,4 @@ Following are the subjects
 7. Other
 8. Any Word Ever!
 
-Based on teh subject selected. a random word will be generated
+Based on the subject selected. a random word will be generated
